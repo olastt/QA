@@ -2,7 +2,7 @@
 
 Баг-репорт в гугл таблице можно посмотреть [тут](https://docs.google.com/spreadsheets/d/18HtlQXrtnKKVV8yTmTmsLOKMaHLyMKXtm83ZQzspN2k/edit?usp=sharing)
 
-Чек-лист можно посмотреть [тут]()
+Чек-лист можно посмотреть [тут](https://github.com/olastt/QA-/blob/main/checklist.md)
 
 Тестируемый [сайт](https://mail.yandex.ru/)
 
